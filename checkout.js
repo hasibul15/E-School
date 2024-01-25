@@ -23,7 +23,7 @@ function updateCart() {
                                 </div>
                             </div>
                             <div>
-                                <img src="./assets/x.png" data-key=${item.id} class="cross-btn cursor-pointer" height="50" alt="">
+                                <img src="x.png" data-key=${item.id} class="cross-btn cursor-pointer" height="50" alt="">
                             </div>
                         </div>
                         `;
